@@ -1,2 +1,2 @@
 # B-tree
-Defaukt B-tree implementaion
+Default B-tree implementaion
